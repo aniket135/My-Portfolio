@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - RobinNorwood-Resume.pdf
+    - Aniket Walke Resume.pdf
     - styles/main.css
     - images/*
